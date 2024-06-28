@@ -6,6 +6,12 @@ Projeto que visa a criação de um sistema de gerenciamento de vendas de ingress
 
 - **Frontend**: construído em Next.js, utilizando a abordagem de SSR (Server-Side Rendering), utilizando TailwindCSS para a estilização.
 
-- **API de venda de ingressos**: construída em Golang, utilizando Repository Pattern separar a camada de acesso aos dados da camada de regras de negócios.
+- **API de venda de ingressos**: construída em Golang, utilizando o design patern Repository Pattern que separa a camada de acesso aos dados da camada de regras de negócios.
 
 - **Gateway de API**: construído usando Kong
+
+<p align="center">
+  <img src="nextjs/public/demo-images/home.png" width="60%" >
+  <img src="nextjs/public/demo-images/event_info.png"  width="60%" >
+  <img src="nextjs/public/demo-images/reserva.png"  width="60%" >  
+</p>
