@@ -1,4 +1,4 @@
-# Sistema de venda de ingressos (Imersão Fullcycle)
+# Sistema de venda de ingressos
 
 Projeto que visa a criação de um sistema de gerenciamento de vendas de ingressos desenvolvido durante o curso de imersão Full Cycle Dev, utilizando tecnologias como Nextjs, Nestjs, Golang e Kong. O sistema é constituído dos seguintes módulos:
 
